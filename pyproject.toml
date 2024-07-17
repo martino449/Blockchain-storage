@@ -2,7 +2,7 @@ name = "python-template"
 version = "0.2.5"
 description = ""
 authors = Martin449
-
+licence = "GNU General Public License v3.0"
 Dependencies:
 python = ">=3.10.0,<3.12"
 cryptography = "^42.0.8"
